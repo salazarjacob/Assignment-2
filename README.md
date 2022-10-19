@@ -1,2 +1,2 @@
 # Assignment-2
-khbxrtigbrigbuisrt
+There are a lot of biases to test for in the Perspective API, like gender bias, language bias, etc.. I have decided to test the Perspective API for bias against the LGBTQIA+ community, primarily because I am apart of this community, and have a natural inclination to understand how technology and the community interact. Specifically, I want to see if words that have been historically used to discriminate against the community are score higher or lower to tradition curse words, seeing as there aren't many words used, historically, to attack heteronormative people.
